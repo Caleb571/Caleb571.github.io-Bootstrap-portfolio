@@ -1,0 +1,39 @@
+img {
+    width: 300px;
+    height: auto;
+    margin-top: 5px;
+    border-radius: 15px 50px 30px;
+}
+
+body {
+    background-color: #343a40;
+}
+
+.Nav {
+    border-bottom: 1px solid #17a2b8;
+}
+
+h1 {
+    color: #17a2b8;
+}
+
+.row {
+    background-color: #343a40;
+    color: #17a2b8;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.col-sm-4 {
+    padding: 20px;
+    border: 1px solid #17a2b8;
+    margin-top: 10px;
+}
+
+.col-sm {
+    border: 1px solid #17a2b8;
+    margin-right: 10px;
+    margin-right: 10px;
+}
+
