@@ -1,0 +1,32 @@
+img {
+    width: 300px;
+    height: 180px;
+    margin-top: 5px;
+    border-radius: 15px 50px 30px;
+}
+
+.container {
+    margin-top: 80px;
+}
+
+body {
+    background-color: #343a40;
+}
+
+.col-sm {
+    background-color: #343a40;
+    border: 1px solid #17a2b8;
+    color: #17a2b8;
+}
+
+p {
+color: #17a2b8;
+}
+
+.Nav {
+    border-bottom: 1px solid #17a2b8;
+}
+
+h1 {
+    color: #17a2b8;
+}
